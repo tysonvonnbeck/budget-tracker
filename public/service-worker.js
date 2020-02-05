@@ -1,9 +1,10 @@
-const FILES_TO_CACHE=[
+const FILES_TO_CACHE = [
     "/",
     "index.html",
     "index.js",
     "db.js",
-    "style.css"
+    "style.css",
+
 ];
 
 const CACHE_NAME="static-cache-v3";
